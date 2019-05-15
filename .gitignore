@@ -1,0 +1,9 @@
+.DS_Store
+.vscode/
+__pycache__/
+env/
+src/*.pyc
+src/*.log
+src/__pycache__/
+data/
+src/notebooks/.ipynb_checkpoints/
