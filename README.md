@@ -17,14 +17,14 @@ This repo presents a new research methodology to automatically detect *students 
 1. Data Collection: 
    * Programming work
    * Web interactions & events
-   * [Demographics](src/notebooks/0.%20Data%20Collection.%20Extracting%20demographics.ipynb)
+   * [Demographics](src/notebooks/1.%20Data%20Collection.%20Extracting%20demographics.ipynb)
    * Academic grades
 2. Exploratory Data Analysis:
-   * [Programming work](src/notebooks/1.%20EDA.%20Exploring%20Programming%20work.ipynb)
-   * [Web interactions & events](src/notebooks/1.%20EDA.%20Exploring%20Web%20data.ipynb)
-   * [Programming + Web](src/notebooks/1.%20EDA.%20Exploring%20Web%20%26%20Programming's%20activity.ipynb)
-   * [Demographics](src/notebooks/1.%20EDA.%20Exploring%20Demographics.ipynb)
-   * [Academic grades](src/notebooks/1.%20EDA.%20Exploring%20Academics.ipynb)
+   * [Programming work](src/notebooks/2.%20EDA.%20Exploring%20Programming%20work.ipynb)
+   * [Web interactions & events](src/notebooks/2.%20EDA.%20Exploring%20Web%20data.ipynb)
+   * [Programming + Web](src/notebooks/2.%20EDA.%20Exploring%20Web%20%26%20Programming's%20activity.ipynb)
+   * [Demographics](src/notebooks/2.%20EDA.%20Exploring%20Demographics.ipynb)
+   * [Academic grades](src/notebooks/2.%20EDA.%20Exploring%20Academics.ipynb)
 
 You can always view a notebook using https://nbviewer.jupyter.org/
 
