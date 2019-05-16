@@ -2,6 +2,17 @@
 
 This repo presents a new research methodology to automatically detect *students at-risk* of failing a computer-based examination in computer programming modules (courses). By leveraging historical student data, we built predictive models using students' offline (**static**) resources including student characteristics and demographics, and online (**dynamic**) resources using programming and behavioural logs. Predictions are generated weekly during semester and evaluated afterwards.
 
+Please consider citing the following if you use any of the work:
+```
+@article{azcona2019detecting,
+  title={Detecting students-at-risk in computer programming classes with learning analytics from students’ digital footprints},
+  author={Azcona, David and Hsiao, I-Han and Smeaton, Alan F},
+  journal={User Modeling and User-Adapted Interaction},
+  pages={1--30},
+  publisher={Springer}
+}
+```
+
 ## Technologies
 
 * Python
